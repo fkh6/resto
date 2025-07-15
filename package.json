@@ -1,0 +1,24 @@
+{
+  "name": "resto",
+  "version": "1.0.0",
+  "description": "the proyect is about represent a menu, orders, and clients for a restaurant",
+  "main": "script.js",
+  "scripts": {
+    "test": "npm install-test lodash"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "menu",
+    "food",
+    "client",
+    "order"
+  ],
+  "author": "Franco Ezequiel Cuenca",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

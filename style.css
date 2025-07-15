@@ -1,0 +1,17 @@
+header{
+    background-color: orangered;
+}
+
+h3{
+    text-align: center;
+    
+}
+.menu{
+    font-style: italic;
+    max-width:200px;
+    border-right-color: aqua;
+    
+}
+.miOrden{
+    background-color: crimson;
+}
